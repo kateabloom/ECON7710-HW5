@@ -1,4 +1,6 @@
 # ECON7710-HW5
+Access knit file here: file:///C:/Users/kateb/Downloads/1135_8_hw5.html
+
 ---
 title: |
     | ECON 7710 
